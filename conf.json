@@ -1,0 +1,33 @@
+{
+    "tags": {
+        "allowUnknownTags": true
+    },
+    "source": {
+        "include": [],
+        "exclude": [],
+        "includePattern": ".+\\.js(doc)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "plugins": [],
+    "templates": {
+        "systemName"            : "Atiz Soluções",
+        "footer"                : "Atiz Soluções - 2018",
+        "copyright"             :  "Todos os Direitos Reservados",
+        "includeDate"           : "true",
+        "navType"               : "{vertical|inline}",
+        "theme"                 : "Cerulean",
+        "linenums"              : "true",
+        "collapseSymbols"       : "true",
+        "inverseNav"            : "true",
+        "outputSourceFiles"     : "true" ,
+        "outputSourcePath"      : "true",
+        "dateFormat"            : "{string}",
+        "syntaxTheme"           : "{string}",
+        "sort"					: "{boolean|string}",
+        "search"                : "true" 
+    },
+    "opts": {
+        "recurse": true,
+        "private": true
+    }
+}
