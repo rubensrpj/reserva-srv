@@ -10,7 +10,7 @@
     "express-promise-router": "^3.0.3",
     "fs": "0.0.1-security",
     "handlebars": "^4.0.11",
-    "morgan": "^1.7.0",
+    "morgan": "^1.9.1",
     "pg": "^7.12.1"
   },
   "devDependencies": {
